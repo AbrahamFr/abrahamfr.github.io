@@ -1,7 +1,7 @@
 # Topics that are on my mind:
 
-- [Modular coding](./modularCoding.md)
-- [Value Pricing](./valuePricing.md)
-- [Worker Cooperatives](./workerCooperatives.md)
+- [Modular coding](./modularCoding)
+- [Value Pricing](./valuePricing)
+- [Worker Cooperatives](./workerCooperatives)
 
 Just a place for me to record my thoughts over time.
