@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modularity is the key
+title: Funny message
 ---
 
 Here be dragons
