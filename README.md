@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Thanks to Barry Clark
 He did a great tutorial [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) in 2014.
 I copied his code at [Barry Clark on GitHub](https://github.com/barryclark/jekyll-now) in 2020-05-30.
+* Barry pointed me to an article by Adam Pritchard [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) from 2017
 
 ### Further thanks to C.S. Rhymes
 For his article at [Making multiple post types in Jekyll](https://www.csrhymes.com/development/2017/10/27/multiple-post-types-in-jekyll.html)
