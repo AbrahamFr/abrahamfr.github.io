@@ -60,6 +60,8 @@ version: v1.2.0
 collections:
   coding:
     output: true
+  coops:
+    output: true
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
