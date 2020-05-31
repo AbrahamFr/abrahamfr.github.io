@@ -13,4 +13,8 @@ I did find the issue of them not using TypeScript...
 
 Now I have to figure out the Import statement!
 
+Found the TypeScript typings here: [npm @types/http-errors](https://www.npmjs.com/package/@types/http-errors).
+
+`npm install --save @types/http-errors`
+
 
