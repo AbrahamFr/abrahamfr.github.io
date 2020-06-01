@@ -1,5 +1,5 @@
 ---
-layouts: post
+layout: post
 title: CSS Grid is Awesome
 ---
 
