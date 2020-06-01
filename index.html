@@ -3,15 +3,41 @@ layout: default
 ---
 
 <div class="posts">
-  {% assign post = site.coding[-1] %}
+  {% assign valuePost = site.values[-1] %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ valuePost.url }}">{{ valuePost.title }}</a></h2>
 
       <div class="entry">
-        {{ post.excerpt }}
+        {{ valuePost.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ valuePost.url }}" class="read-more">Read More</a>
+    </article>
+</div>
+<div class="posts">
+  {% assign codingPost = site.coding[-1] %}
+    <article class="post">
+
+      <h2><a href="{{ site.baseurl }}{{ codingPost.url }}">{{ codingPost.title }}</a></h2>
+
+      <div class="entry">
+        {{ codingPost.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ codingPost.url }}" class="read-more">Read More</a>
+    </article>
+</div>
+<div class="posts">
+  {% assign coopPost = site.coops[-1] %}
+    <article class="post">
+
+      <h2><a href="{{ site.baseurl }}{{ coopPost.url }}">{{ coopPost.title }}</a></h2>
+
+      <div class="entry">
+        {{ coopPost.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ coopPost.url }}" class="read-more">Read More</a>
     </article>
 </div>
