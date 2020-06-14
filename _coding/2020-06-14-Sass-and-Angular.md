@@ -17,3 +17,5 @@ to
   "src/sass/styles.scss"
 ],
 ```
+
+Although, I refuse to use Bootstrap for any project.  With CSS Grid and Flexbox, the need for Bootstrap has disappeared.
