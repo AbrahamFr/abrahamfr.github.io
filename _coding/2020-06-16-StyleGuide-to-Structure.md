@@ -5,7 +5,7 @@ title: Taking a Styleguide and making a working Structure in SASS
 
 When looking at the [https://sass-guidelin.es/#the-7-1-pattern](https://sass-guidelin.es/#the-7-1-pattern), I am not inclined to use it exactly.
 
-My designer gave me a Base color palette, Color Allocations, and Element States.  So, I am implementing this pattern.
+My designer, [Marlowe Wakeman](https://marlowexperience.com/about/), gave me a Base color palette, Color Allocations, and Element States.  So, I am implementing this pattern.
 
 - sass
   - base
