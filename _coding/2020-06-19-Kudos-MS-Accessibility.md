@@ -12,3 +12,5 @@ Kudos to the Visual Studio Code team at Microsoft for helping coders with tools 
 
 
 I particularly appreciate the above two points which shows thinking about how to help coders understand and implement Aria labels.
+
+Although, just adding Aria to a web page does not automatically make it accessible!  We must always be thinking of how Keyboard Kevin, Screen Reader Shawna, and Grayscale Gary can use our site, not just the Typical Tina.
