@@ -64,6 +64,8 @@ collections:
     output: true
   values:
     output: true
+  homestead:
+    output: true
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
