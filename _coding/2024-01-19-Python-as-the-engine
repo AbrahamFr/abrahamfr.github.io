@@ -1,0 +1,12 @@
+---
+layout: post
+title: Python as the Engine
+---
+
+As I look to the polyglot of code languages out there, I am drawn to Python.  
+
+Sure, PHP, Ruby, TypeScript/JavaScript, C#, and Java all have advantages, but Python still stands out from the rest.
+
+* From Predictive Analytics to Machine Learning, Python is the favorite for AI work.  R does have a lot of strength here as well.
+* As an interpreted language, Python is able to be used for Scripting.  But, then can go as far as full services with multiple apps.
+* Having the services written in the same language as the backend processing engines has a lot of appeal to reduce complexity.
