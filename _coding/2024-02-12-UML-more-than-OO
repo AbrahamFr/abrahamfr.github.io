@@ -1,0 +1,8 @@
+---
+layout: post
+title: UML for more than Object Orientation
+---
+
+As I read Eric Evan's Domain-Driven Design book, I find the idea of using Services as well as Objects to be a very natural fit for handling real word scenarios.  I come to UML from working in the industry and needing a more rich vocabulary to describe architectural choices.  The Universal Modeling Language, UML, was never seen be me to only be for Object Oriented Design.  In fact, the Sequence, Activity, State, and Use Case diagrams all lend themselves to many different paradigms of programming, such as Functional Programming. 
+
+The use of UML with Business, Marketing, or User Experience people have been well received.  Of course, there are verbal meetings and written explanations that are needed as well.  But, the UML syntax has been very beneficial when working through more in-depth issues that need to be visualized.
