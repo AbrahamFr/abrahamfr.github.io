@@ -11,3 +11,4 @@ I have worked in corporations that were an amalgamation of different corporation
 
 Cooperative corporations have stepped in to fill the void in different cases.  But, only the Worker Cooperatives fully embrace the employee question.  Yet, even Worker Coops, or other Employee Owned corporations, do not provide the adequate governance structure by themselves.  
 
+With the chaos of the marketplace and changes over time, the need for creating, transforming, and destroying corporations while providing for and protecting the communities, employees, vendors, environment, and investors requires innovation, balance, humility, boldness, and the feedback or voice of all involved.
